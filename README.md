@@ -16,7 +16,7 @@ Let me share with you how the dashboard looks:
 
 ![Screenshot 2023-03-15 002411](https://user-images.githubusercontent.com/126685886/225108635-8aaa7fae-ff77-48eb-b292-3136c162f15b.png)
 
-As you can see in the picture, in dashboard there are different charts graphs are thre and it's very easy visualize the data of comany in different parameters like sum of sale by category name, sum of sale by continents (continents is nothing but regions), in it we can observe that sales of product based on catergories also region wise sales of company.Also we can see that profite by continent and region it shows that the profite earned by comapny in different regions,as profit of company in austrlian region is more and in europen region it's moderate.
+As you can see in the picture, on the dashboard there are different charts. Graphs are there and it's very easy to visualize the data of a company on different parameters like sum of sales by category name, sum of sales by continents (continents is nothing but regions). In that we can observe that sales of products based on categories also are region by sales of company. Also we can see that profit by continent and region it shows that the profit earned by company in different regions, as profit of a company in Australian region is more and in European region it's moderate. 
 
 
 
